@@ -1,6 +1,4 @@
-# rdemanow.github.io
-GitHub Pages 
+# Rich's Public Projects on GitHub
 
-## Projects:
-### QIX - A classic screensaver
-https://rdemanow.github.io/qix/
+## QIX - A Classic Screensaver
+<https://rdemanow.github.io/qix/>
