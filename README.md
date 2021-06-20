@@ -15,6 +15,10 @@ An exercise from CodeCademy in using HTML and CSS to build a page to a specifica
 An exercise from CodeCademy in using HTML and CSS to build a page to a specification  
 <https://rdemanow.github.io/teacozy/>
 
+## Mixed Messages
+A CodeCademy exercise implementing a simple JavaScript that displays a random quote from a list  
+<https://rdemanow.github.io/mixedmessages/>
+
 ## Piano Player
 An exercise from CodeCademy in using HTML, CSS and JavaScript to make a page interactive  
 <https://rdemanow.github.io/pianoplayer/>
