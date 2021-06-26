@@ -15,6 +15,10 @@ An exercise from CodeCademy in using HTML and CSS to build a page to a specifica
 An exercise from CodeCademy in using HTML and CSS to build a page to a specification  
 <https://rdemanow.github.io/teacozy/>
 
+## FotoMatic
+An exercise from CodeCademy in debugging malformed HTML and CSS
+<https://rdemanow.github.io/fotomatic/>
+
 ## Mixed Messages
 A CodeCademy exercise implementing a simple JavaScript that displays a random quote from a list  
 <https://rdemanow.github.io/mixedmessages/>
